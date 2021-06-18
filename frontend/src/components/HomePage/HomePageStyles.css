@@ -1,0 +1,37 @@
+.rr{
+    text-align: center;
+    font-size: 65px;
+    color:white;
+    font-family: 'Brush Script MT', cursive;
+    font-weight: bold;
+}
+
+.g{
+    color: white;
+    text-align: center;
+    
+    
+}
+
+.p
+{
+    font-size: 40px;
+}
+body {
+    margin: 0;
+    color:black;
+    font-family: Copperplate, Papyrus, fantasy;
+    background-color: white;
+}  
+
+.bg-dark {
+    background-color: rgb(63, 62, 62) !important;
+  }
+  
+  a.bg-dark:focus,
+  a.bg-dark:hover,
+  button.bg-dark:focus,
+  button.bg-dark:hover {
+    background-color: rgb(63, 62, 62) !important;
+  }
+

@@ -1,0 +1,26 @@
+
+.a{
+    font-size: 50%;
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+    margin-top: 5%;
+    justify-content: center;
+ 
+}
+
+
+.d{
+    text-align: center;
+    font-size: 65px;
+    color:black;
+    font-family: 'Brush Script MT', cursive;
+    font-weight: bold;
+}
+.q{
+    background-color:white;
+}
+
+
+
